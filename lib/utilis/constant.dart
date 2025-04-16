@@ -1,0 +1,1 @@
+const baseUrl="https://app.giotheapp.com/api-sample/";
